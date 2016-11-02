@@ -1,0 +1,5 @@
+c:\users\diazs\documents\visual studio 2015\Projects\DesignSeed02\DesignSeed02\bin\DesignSeed02.dll
+c:\users\diazs\documents\visual studio 2015\Projects\DesignSeed02\DesignSeed02\bin\DesignSeed02.pdb
+c:\users\diazs\documents\visual studio 2015\Projects\DesignSeed02\DesignSeed02\obj\Debug64\DesignSeed02.csprojResolveAssemblyReference.cache
+c:\users\diazs\documents\visual studio 2015\Projects\DesignSeed02\DesignSeed02\obj\Debug64\DesignSeed02.dll
+c:\users\diazs\documents\visual studio 2015\Projects\DesignSeed02\DesignSeed02\obj\Debug64\DesignSeed02.pdb
